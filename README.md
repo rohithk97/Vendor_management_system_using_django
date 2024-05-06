@@ -1,6 +1,6 @@
 # Django Vendor Management System
 
-A Vendor Management System (VMS) built using Django and Django REST Framework. This system manages vendor profiles, tracks purchase orders, and calculates vendor performance metrics.
+A Vendor Management System built using Django and Django REST Framework which manages vendor profiles, tracks purchase orders, and calculates vendor performance metrics.
 
 ## Table of Contents
 
