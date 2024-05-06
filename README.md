@@ -9,7 +9,7 @@ A Vendor Management System (VMS) built using Django and Django REST Framework. T
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Documentation](#api-documentation)
-- [Contributing](#contributing)
+
   
 
 ## Features
