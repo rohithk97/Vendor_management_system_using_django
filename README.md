@@ -58,8 +58,10 @@ A Vendor Management System built using Django and Django REST Framework which ma
 
   a.Create a Superuser: If you haven't already, create a superuser who will be used to generate tokens for other users. Run python manage.py createsuperuser and 
     follow the prompts.
+    
   b.Generate Tokens: Log in to the Django admin panel (/admin) using the superuser credentials you just created. Navigate to the "Authtoken" section and add a new 
     token for each user who needs access to the API.
+    
   c.Include Token in Requests:any tool you're using to make API requests, include the token in the request headers.
 
   d.Test the Endpoints: Once you've included the token in the request headers, test your API endpoints. If the token authentication is successful, you should be 
